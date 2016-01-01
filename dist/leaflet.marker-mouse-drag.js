@@ -1,5 +1,5 @@
 /**
- * Leaflet.marker-mouse-drag 0.3.0
+ * leaflet.marker-mouse-drag 0.3.0
  *
  * Drags marker by mouse movement.
  */

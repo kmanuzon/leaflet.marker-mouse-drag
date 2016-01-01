@@ -1,0 +1,23 @@
+{
+  "name": "leaflet.marker-mouse-drag",
+  "homepage": "https://github.com/progknife/leaflet.marker-mouse-drag",
+  "authors": [
+    "Karl Manuzon <karl.manuzon@gmail.com>"
+  ],
+  "description": "Drags marker by mouse movement.",
+  "main": "dist/leaflet.marker-mouse-drag.js",
+  "moduleType": [],
+  "keywords": [
+    "leaflet",
+    "map",
+    "marker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

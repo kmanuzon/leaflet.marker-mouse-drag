@@ -1,2 +1,2 @@
-# Leaflet.marker-mouse-drag
+# leaflet.marker-mouse-drag
 Drags marker by mouse movement.
